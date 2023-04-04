@@ -1,1 +1,1 @@
-This is me learning C programming
+pointers part 3
